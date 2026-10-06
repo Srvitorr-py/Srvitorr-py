@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Banner.Srvitorr-py.jpeg " width="100%">
+<img src="Banner.2.jpeg" width="100%">
 
 <br><br>
 
