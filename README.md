@@ -21,8 +21,11 @@ Me chamo Vitor Daniel, tenho 19 anos. Atualmente curso Sistema de Informação n
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:vitorr.py@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=1E3A8A)](mailto:vitorr.py@gmail.com)
 
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=1E3A8A)](https://www.instagram.com/vitorr.py/)
+
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/84994702981)
 <h3 align="left">My Stack ~</h3>
 
 <img 
